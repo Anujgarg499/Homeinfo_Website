@@ -1,0 +1,24 @@
+.bgcolour
+{
+background : url("../img/home.jpg")no-repeat; width: 100%; height: 100%;
+}
+.form-container
+{
+	border:1px solid white; 
+	padding:50px 50px; 
+	margin-top:6vh;
+	
+	border-radius: 0px 0px 58px 0px;
+-moz-border-radius: 0px 0px 58px 0px-webkit-box-shadow: 5px 6px 24px 2px rgba(0,0,0,0.52);
+-moz-box-shadow: 5px 6px 24px 2px rgba(0,0,0,0.52);
+box-shadow: 5px 6px 24px 2px rgba(0,0,0,0.52);
+-webkit-border-radius: 0px 0px 58px 0px;
+border: 0px solid #000000;
+
+}
+.btn-lg.round {
+	border-radius: 50px;
+    width:100%;
+}
+
+
